@@ -1,4 +1,4 @@
-import './styles/app.css'
+import './app.css'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Home from './pages/Home'
 import Hearder from './components/Hearder'
