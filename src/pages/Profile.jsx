@@ -10,7 +10,7 @@ const Profile = () => {
 
   return (
     <div className="min-h-screen 	bg-slate-900 text-white flex items-center justify-center px-4">
-      <div className="bg-gray-800 p-8 rounded-2xl shadow-lg max-w-md w-full text-center space-y-4">
+      <div className="bg-gray-800 p-8 rounded-2xl shadow-lg max-w-md w-90 text-center space-y-4 sm:w-96">
         <div className="w-24 h-24 mx-auto rounded-full bg-gray-700 flex items-center justify-center text-3xl font-bold text-white">
           {user.name?.charAt(0).toUpperCase()}
         </div>

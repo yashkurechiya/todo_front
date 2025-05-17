@@ -43,7 +43,7 @@ const Register = () => {
 
   return (
     <div className="flex items-center 	bg-slate-900 justify-center min-h-screen ">
-      <section className="bg-slate-800 p-8 rounded-lg shadow-lg w-full sm:w-96">
+      <section className="bg-slate-800 p-8 rounded-lg shadow-lg w-90 sm:w-96">
         <h2 className="text-2xl font-semibold text-center text-slate-100 mb-6">
           Create an Account
         </h2>

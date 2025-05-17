@@ -47,7 +47,7 @@ const submitHandler = async (e) => {
 
   return (
     <div className="flex items-center justify-center min-h-screen 	bg-slate-900">
-      <section className="bg-slate-800 p-8 rounded-lg shadow-lg w-full sm:w-96">
+      <section className="bg-slate-800 p-8 rounded-lg shadow-lg w-90 sm:w-100">
         <h2 className="text-2xl font-semibold text-center text-slate-100 mb-6">
           Login to Your Account
         </h2>
